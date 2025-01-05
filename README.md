@@ -1,20 +1,37 @@
-# Fox-3D
-Fox 3D model created in Blender
+# Cat-3D
+A 3D cat model created in Blender, showcasing various stages of development, including modeling, texturing, rigging, skinning, animation, and lighting.
 
-Modelling
-![image](https://github.com/user-attachments/assets/b312dc5d-662f-4393-8d5c-7bfb509d02a6)
+![3D_cat](https://github.com/user-attachments/assets/bdd5b023-49fd-40e8-823b-1638f0b62ca8)
+![Screenshot 2024-06-18 012629](https://github.com/user-attachments/assets/5ea5b8c8-1cb0-4d0c-90d5-545e0a7c9908)
 
-Texturing
-![image](https://github.com/user-attachments/assets/f074e400-608e-4380-b69b-6507e1bdf2ae)
+# Stages of Development
 
-Rigging
-![image](https://github.com/user-attachments/assets/63b5176b-ee35-4d82-aef9-e9fb047d4172)
+1. **Modeling**  
+   The first stage of creating the 3D cat involves sculpting the basic shape and details.
 
-Skinning
-![image](https://github.com/user-attachments/assets/c33e7da5-295f-468d-8aea-44d6aa080c7b)
+   ![Screenshot 2024-06-16 003556](https://github.com/user-attachments/assets/ca7aad1a-9958-4894-b499-bb9d74bf9af6)
 
-Animation Pose
-![image](https://github.com/user-attachments/assets/269c8548-1bde-43c4-af54-17683f10af8e)
+2. **Texturing**  
+   After the model is complete, textures are applied to bring the cat to life.
 
-Lighting
-![image](https://github.com/user-attachments/assets/f5c5aa1b-6fca-469a-a596-f19b15b3d9d2)
+   ![Screenshot 2024-06-16 101255](https://github.com/user-attachments/assets/b58c3818-d820-41ae-88d0-ff13ea536b09)
+
+3. **Rigging**  
+   The next step involves adding a skeleton to the model, allowing it to move.
+
+   ![Screenshot 2024-06-16 221857](https://github.com/user-attachments/assets/41a156c2-ea8b-4bcd-aeb7-066162f32f45)
+
+4. **Skinning**  
+   The skinning process binds the model’s mesh to the rig, ensuring it moves naturally.
+
+   ![Screenshot 2024-06-17 222708](https://github.com/user-attachments/assets/593e1b47-5c6d-45f8-a6d0-82170c85033f)
+
+5. **Animation Pose**  
+   This is where the model takes its first steps, demonstrating basic poses.
+
+   ![Screenshot 2024-06-18 013308](https://github.com/user-attachments/assets/0370c433-57c0-4ac0-baf3-9ee341221d15)
+
+6. **Lighting**  
+   Finally, proper lighting is applied to enhance the visual appeal and realism of the model.
+
+   ![Screenshot 2024-06-18 062306](https://github.com/user-attachments/assets/d1bb240d-cc26-45cc-8390-9046731564a3)
